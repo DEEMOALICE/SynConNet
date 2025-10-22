@@ -2,7 +2,7 @@
 Related code for "High-resolution human contact networks in thirteen countries for infectious disease transmission"
 
 ## 1. Requirments
-Python 3.6 64-bit and more. (Note: Python 2 is not supported.)
+Python 3.6 64-bit and more (Note: Python 2 is not supported).
 We recommend installing [SynthPops](https://github.com/synthpops/synthpops)(Latest versions (1.10.x)) before running the code to support the generation of contact networks. Please follow the instructions in the repository for installation.
 
 ## 2. Replace Files  
