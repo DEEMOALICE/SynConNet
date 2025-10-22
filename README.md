@@ -9,7 +9,7 @@ We recommend installing [SynthPops](https://github.com/synthpops/synthpops)(Late
 After installing SynthPops, copy the JSON files from the `location` directory into the `synthpops/data` directory. Then, replace the existing `defaults.py` in the `synthpops/` root directory with the provided version.
 
 ## 3. Contact Network Generation  
-The `ConNetGen.ipynb` notebook includes contact network generation code for 13 countries. The generated contact networks and individual attributes are saved in the `net` and `pop` directories, respectively. We provide 30 sample contact networks for the US as a demo. We also provide a detailed start guideline in `SCN_Start.ipynb`.
+The `ConNetGen.ipynb` notebook includes contact network generation code for 13 countries. The generated contact networks and individual attributes are saved in the `net` and `pop` folders, respectively. We provide 30 sample contact networks for the US as a demo. We also offer a comprehensive reproduction workflow in the `SCN_Start.ipynb` file.
 
 ## 4. Validation & Visualization  
 A detailed set of contact network results, intermediate data, and the validation process are provided in the `validation.zip` archive.
