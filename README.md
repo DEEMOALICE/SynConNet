@@ -1,8 +1,9 @@
 # SynConNet
 Related code for "High-resolution human contact networks in thirteen countries for infectious disease transmission"
 
-## 1. Install SynthPops  
-We recommend installing [SynthPops](https://github.com/synthpops/synthpops) before running the code to support the generation of contact networks. Please follow the instructions in the repository for installation.
+## 1. Requirments
+Python 3.6 64-bit and more. (Note: Python 2 is not supported.)
+We recommend installing [SynthPops](https://github.com/synthpops/synthpops)(Latest versions (1.10.x)) before running the code to support the generation of contact networks. Please follow the instructions in the repository for installation.
 
 ## 2. Replace Files  
 After installing SynthPops, copy the JSON files from the `location` directory into the `synthpops/data` directory. Then, replace the existing `defaults.py` in the `synthpops/` root directory with the provided version.
